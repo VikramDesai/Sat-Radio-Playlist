@@ -96,19 +96,6 @@ def main():
                 index = parsedStr.find("-")
                 myDict[parsedStr[: index]] = parsedStr[ index + 1 : ]
                 
-                '''
-                index = myStr.find("from")
-                if index:
-                    parsedStr1 = myStr[ : index]
-                    parsedStr2 = myStr[ index + 1: ]
-                    index2 = parsedStr2.find("...")
-                    parsedStr2 = parsedStr2[ : index2]
-                    index3 = parsedStr1.find("'")
-                    parsedStr1 = parsedStr1[index3+1 : ]
-                    index4 = parsedStr1.find("'")
-                    parsedStr1 = parsedStr1[ : index4]
-                    myDict[parsedStr1] = parsedStr2
-                '''
         if last_successful_status_id:
             config.set('twitter', 'since_id', last_successful_status_id)
             write_to_config_file(config)
