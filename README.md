@@ -22,7 +22,7 @@ Here's what you'll do:
 
     1.Sign in to dev.twitter.com with your user ID.
     2.Go to My applications > Create a new Application
-    3.a name, description, website (can be anything). Leave the callback URL blank. Agree to the rules, enter the          CAPTCHA and create the application.
+    3.a name, description, website (can be anything). Leave the callback URL blank. Agree to the rules, enter the CAPTCHA and create the application.
     4.Scroll down to the bottom and create the access tokens.
     5.Copy the Consumer key, secret, Access token and secret into settings.cfg.
     6.Enter your Twitter user handle against the user_handle key.
