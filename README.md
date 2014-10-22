@@ -1,7 +1,8 @@
 # Sat-Radio-Playlist #
-==================https://github.com/VikramDesai/Sat-Radio-Playlist/edit/master/README.md#
+==================
+https://github.com/VikramDesai/Sat-Radio-Playlist/edit/master/README.md#
 
-Most times when a track is played on the Sat radio, its hard to keep track of the names of the track. Its totally not advised to shazam the track while driving. I realized the station tweets their tracklist, voila I can get home and run this script to get the tracks played that day. You can search and create a playlist on youtube and take these tracks to go.
+Most times when a track is played on the Sat radio, its hard to store the names of the track. Its totally not advised to shazam the track while driving. I realized the station tweets their tracklist, voila I can get home and run this script to get the tracks played that day. You can search and create a playlist on youtube and take these tracks on the go.
 
 
 # What do I need to do?
