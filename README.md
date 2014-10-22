@@ -1,10 +1,10 @@
-Sat-Radio-Playlist
-==================
+# Sat-Radio-Playlist #
+==================https://github.com/VikramDesai/Sat-Radio-Playlist/edit/master/README.md#
 
 Most times when a track is played on the Sat radio, its hard to keep track of the names of the track. Its totally not advised to shazam the track while driving. I realized the station tweets their tracklist, voila I can get home and run this script to get the tracks played that day. You can search and create a playlist on youtube and take these tracks to go.
 
 
-What do I need to do?
+# What do I need to do?
 
 Download the app (has a python file and a config file).
 
@@ -14,7 +14,7 @@ Add the youtube playlist name to the settings.cfg file
 
 python bpmPlaylist.py
 
-Twitter part
+# Twitter part
 
 Setup your Twitter developer account, get the credentials and put them in the config file.
 
@@ -28,10 +28,11 @@ Here's what you'll do:
     6.Enter your Twitter user handle against the user_handle key.
     7.Leave since_id as is. The script will use it to track progress.
 
-Youtube Part:
+# Youtube Part
+
 Please refer to https://developers.google.com/youtube/registering_an_application
 
-A few playlists created using the app:
+#  A few playlists created using the app:
 
 https://www.youtube.com/playlist?list=PLgueaXiOUeaovDdb_osKcQxqo36b1L-mc
 
