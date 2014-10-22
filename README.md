@@ -32,7 +32,7 @@ Here's what you'll do:
 
 Please refer to https://developers.google.com/youtube/registering_an_application
 
-#  A few playlists created using the app:
+#  A few playlists created using Sat-Radio-Playlist
 
 https://www.youtube.com/playlist?list=PLgueaXiOUeaovDdb_osKcQxqo36b1L-mc
 
