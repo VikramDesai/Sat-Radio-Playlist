@@ -9,7 +9,7 @@ Most times when a track is played on the Sat radio, its hard to store the names 
 
 Download the app (has a python file and a config file).
 
-Add your credentials to the settings.cfg file.
+Add your twitter credentials to the settings.cfg file.
 
 Add the youtube playlist name to the settings.cfg file
 
